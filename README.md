@@ -1,8 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=FFA883&height=300&section=header&text=Gyuhan%20Park&fontSize=90&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Gyuhan%20Park&fontSize=80&fontColor=4FACF9)
 
+<div align='center'>
+ 
 ## 😎  WHO AM I?
-<img  align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rbgksqkr">
 
 ##### 🤔 I'm interested in Front-end
 
@@ -19,3 +20,4 @@
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white"/>
  <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/> 
+</div>
