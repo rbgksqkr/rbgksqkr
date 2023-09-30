@@ -20,6 +20,5 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white"/>
- <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
 </div>
