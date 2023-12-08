@@ -7,9 +7,11 @@
 
 ##### 🤔 I'm interested in Front-end
 
-##### 🌱 I’m currently learning react
+##### 🌱 I’m currently learning Next.js
 
 ##### 💻 I majored in Computer Science Engineer
+
+#### This is my resume : [박규한_이력서](https://drive.google.com/file/d/1nQWnFDjqcIAqTjzgR07qk_s2LpTlH1Er/view?usp=sharing)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frbgksqkr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
