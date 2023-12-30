@@ -8,15 +8,19 @@
 ##### 🌱 I’m currently learning Next.js
 ##### 💻 I majored in Computer Science Engineer
 
+##### resume : [박규한_이력서](https://drive.google.com/file/d/13-x5Q5qnI00zorFgWO95Ry3ZTVuAeTNw/view?usp=sharing)
+
 ## 📚 Experiences
 
-- 멋쟁이사자처럼 11기 FE (23.03 - 23.11)
-- Google Developer Student Club (23.09 - NOW)
 - 2023 오픈소스 컨트리뷰션 아카데미 githru-vscode-ext 멘티 (23.07 - 23.10)
+- 멋쟁이사자처럼 11기 FE (23.03 - 23.11)
 - Si-gongan (서울대학교 창업팀) (23.07 - 23.11)
+- Google Developer Student Club (23.09 - NOW)
 - UMC 4기 WEB 파트장 (23.03 - 23.08)
 
-#### resume : [박규한_이력서](https://drive.google.com/file/d/1nQWnFDjqcIAqTjzgR07qk_s2LpTlH1Er/view?usp=sharing)
+## 💡 Open source Contributes
+- [중복 타입 제거 및 코드 개선](https://github.com/githru/githru-vscode-ext/pull/378)
+- [cluster 데이터 불러오는 jest 테스트 코드 추가](https://github.com/githru/githru-vscode-ext/pull/450)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frbgksqkr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
