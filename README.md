@@ -8,8 +8,6 @@
 ##### 🌱 I’m currently learning Next.js
 ##### 💻 I majored in Computer Science Engineer
 
-##### resume : [박규한_이력서](https://drive.google.com/file/d/13-x5Q5qnI00zorFgWO95Ry3ZTVuAeTNw/view?usp=sharing)
-
 ## 📚 Experiences
 
 - 2023 오픈소스 컨트리뷰션 아카데미 githru-vscode-ext 멘티 (23.07 - 23.10)
