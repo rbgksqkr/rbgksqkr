@@ -5,22 +5,17 @@
 ## 😎  WHO AM I ?
 
 ##### 🤔 I'm interested in Front-end
-##### 🌱 I’m currently learning Next.js
+##### 🌱 I’m currently learning React, Next.js
 ##### 💻 I majored in Computer Science Engineer
 
 ## 📚 Experiences
 
+- 우아한테크코스 FE 6기 (24.02 - NOW)
 - 2023 오픈소스 컨트리뷰션 아카데미 githru-vscode-ext 멘티 (23.07 - 23.10)
 - 멋쟁이사자처럼 11기 FE (23.03 - 23.11)
 - Si-gongan (서울대학교 창업팀) (23.07 - 23.11)
-- Google Developer Student Club (23.09 - NOW)
+- Google Developer Student Club (23.09 - 24.06)
 - UMC 4기 WEB 파트장 (23.03 - 23.08)
-
-## 💡 Open source Contributes
-- [중복 타입 제거 및 코드 개선](https://github.com/githru/githru-vscode-ext/pull/378)
-- [cluster 데이터 불러오는 jest 테스트 코드 추가](https://github.com/githru/githru-vscode-ext/pull/450)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frbgksqkr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
  <h2>🛠️ Teck Stack 🛠️</h2>
  
@@ -33,3 +28,5 @@
 <div align='center'> 
 
 </div>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frbgksqkr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
