@@ -2,6 +2,7 @@
 
 - 어떤 문제를 해결해야 하는지 정의하고, 어떻게 문제를 해결 할 수 있는지 찾아갑니다.
 - 문제를 해결하고 왜 그렇게 구현해야 하는지 돌아보며 깊이 있게 학습합니다.
+- 블로그를 꾸준히 작성하여 이해한 내용을 쉽게 설명할 수 있도록 노력합니다.
 - 지속적인 사용자와의 상호작용을 통해 서비스를 개선해나가 사람들의 삶의 도움이 되는 프로덕트를 개발하고 싶습니다.
 
 
@@ -13,6 +14,13 @@
 - Si-gongan (서울대학교 창업팀) (23.07 - 23.11)
 - Google Developer Student Club (23.09 - 24.06)
 - UMC 4기 WEB 파트장 (23.03 - 23.08)
+
+## 🎤 presentation
+- [10분 테코톡 - 리액트 LifeCycle [우아한테크코스]](https://www.youtube.com/watch?v=wLPHtaSfCmU)
+- [선배와의 만남 - 나 계속 개발할 수 있을까 [멋쟁이사자처럼]](https://drive.google.com/file/d/1EyaHcWTmkyHwdNHflvUBFRCYidhQqWGK/view?usp=sharing)
+- [Event Loop [멋쟁이사자처럼]](https://drive.google.com/file/d/1WE7N3QwG2VciHOYN5othKtzGyKDghtnW/view?usp=sharing)
+- [고려대 연합세션 - 휠패스 개발 경험 공유 [GDSC]](https://docs.google.com/presentation/d/1fm5Bkb5zYHBbflinZlcXpFinHkkNbRqBopnZuymN16s/edit?usp=sharing)
+- [브라우저 렌더링 방식 [GDSC]](https://drive.google.com/file/d/1DssMit9R-GBy6ob58vTQb2a8F1wASTxA/view?usp=sharing)
 
  <h2>🛠️ Teck Stack </h2>
  
