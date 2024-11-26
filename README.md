@@ -14,7 +14,7 @@
 |:-:|:-:|:-:|:-:|:-:|
 | YAPP | 25기 | 2024.11 - NOW | 프론트엔드
 | 우아한테크코스 | 6기 | 2024.02 - 2024.11 | 프론트엔드 | [아카이빙 저장소](https://github.com/rbgksqkr/woowacourse-archive)
-| 오픈소스 컨트리뷰션 아카데미 githru-vscode-ext 멘티 | - | 2023.07 - 2023.10 | 프론트엔드 |  [레포지토리](https://github.com/githru/githru-vscode-ext), [vscode 익스텐션](https://marketplace.visualstudio.com/items?itemName=githru.githru-vscode-ext&ssr=false#overview)
+| 오픈소스 컨트리뷰션 아카데미<br/>(githru-vscode-ext 멘티) | - | 2023.07 - 2023.10 | 프론트엔드 |  [레포지토리](https://github.com/githru/githru-vscode-ext)<br/>[vscode 익스텐션](https://marketplace.visualstudio.com/items?itemName=githru.githru-vscode-ext&ssr=false#overview)
 | 중앙대학교 멋쟁이사자처럼 | 11기 | 2023.03 - 2023.11 | 프론트엔드
 | Si-gongan(서울대학교 창업팀) | - | 2023.07 - 2023.11 | 프론트엔드(RN)
 | 중앙대학교 Google Developer Student Club | 3기 | 2023.09 - 2024.06 | 프론트엔드 
