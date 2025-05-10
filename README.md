@@ -2,6 +2,7 @@
 
 - 직관적인 UI와 애니메이션이 UX에 큰 영향을 미치며, 비즈니스 가치를 만들어낸다고 생각합니다.
 - [블로그](https://velog.io/@ghenmaru/series) 작성을 좋아하며, 알고 있는 지식을 상대방이 이해할 수 있게 설명하는 것을 좋아합니다. (포스팅 200+ | 총 조회수 4만+)
+  - 글을 좀더 잘 표현하기 위해 커스텀하기 쉬운 [github 블로그](https://rbgksqkr.github.io/)를 운영중입니다 🎵
 - 팀의 문제 해결을 위해 토론하는 것을 좋아하며, [코드리뷰 문화](https://github.com/rbgksqkr/woowa-writing/blob/level3/LEVEL_3.md)를 유지하기 위해 노력합니다.
 - 주기적으로 [회고](https://velog.io/@ghenmaru/series/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4)를 진행하여 학습이 잘 이뤄지고 있는지, 성장하고 있는지 등을 고민합니다.
 - 에러가 발생했을 때 스스로 문제를 해결하기 위해 노력하며, 해결한 문제를 공유합니다.
@@ -12,7 +13,7 @@
 
 | 활동명 | 기수 | 활동 기간 | 역할 | 비고
 |:-:|:-:|:-:|:-:|:-:|
-| 현대 소프티어 | 5기 | 2025.01 - 2025.02 | 프론트엔드 | -
+| 현대 소프티어 | 5기 | 2025.01 - 2025.02 | 프론트엔드 | [서비스 링크](https://do-reburn.site/)
 | YAPP | 25기 | 2024.11 - 2025.03 | 프론트엔드 | [서비스 링크](https://gradmeet.co.kr/)
 | ⭐️ 우아한테크코스 | 6기 | 2024.02 - 2024.11 | 프론트엔드 | [서비스 링크](https://ddangkong.kr/)<br/>[아카이빙 저장소](https://github.com/rbgksqkr/woowacourse-archive)
 | 오픈소스 컨트리뷰션 아카데미<br/>(githru-vscode-ext 멘티) | - | 2023.07 - 2023.10 | 프론트엔드 |  [레포지토리](https://github.com/githru/githru-vscode-ext)<br/>[vscode 익스텐션](https://marketplace.visualstudio.com/items?itemName=githru.githru-vscode-ext&ssr=false#overview)
