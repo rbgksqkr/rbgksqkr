@@ -13,19 +13,23 @@
 |:-:|:-:|:-:|:-:|
 | 미리디(미리캔버스) | 2025.03 - 2025.06 | 프론트엔드 캔버스 웹 | 인턴
 
+## 🏫 Education
+
+| 활동명 | 활동 기간 | repository | 서비스 링크 | 비고
+|:-:|:-:|:-:|:-:|:-:|
+| 현대 소프티어 | 25.01 - 25.02 | [repository](https://github.com/softeer5th/Team6-DuBu) | [https://do-reburn.site](https://do-reburn.site/)
+| ⭐️ 우아한테크코스 | 24.02 - 24.11 | [repository](https://github.com/woowacourse-teams/2024-ddangkong) | [https://ddangkong.kr](https://ddangkong.kr/) | [아카이빙 저장소](https://github.com/rbgksqkr/woowacourse-archive)
 
 ## 📚 Experiences
 
-| 활동명 | 기수 | 활동 기간 | 역할 | 비고
+| 활동명 | 활동 기간 | repository | 서비스 링크 | 비고
 |:-:|:-:|:-:|:-:|:-:|
-| 현대 소프티어 | 5기 | 2025.01 - 2025.02 | 프론트엔드 | [서비스 링크(두리번)](https://do-reburn.site/)
-| YAPP | 25기 | 2024.11 - 2025.03 | 프론트엔드 | [서비스 링크(그라밋)](https://gradmeet.co.kr/)
-| ⭐️ 우아한테크코스 | 6기 | 2024.02 - 2024.11 | 프론트엔드 | [서비스 링크(땅콩)](https://ddangkong.kr/)<br/>[아카이빙 저장소](https://github.com/rbgksqkr/woowacourse-archive)
-| 오픈소스 컨트리뷰션 아카데미<br/>(githru-vscode-ext 멘티) | - | 2023.07 - 2023.10 | 프론트엔드 |  [레포지토리](https://github.com/githru/githru-vscode-ext)<br/>[vscode 익스텐션](https://marketplace.visualstudio.com/items?itemName=githru.githru-vscode-ext&ssr=false#overview)
-| 중앙대학교 멋쟁이사자처럼 | 11기 | 2023.03 - 2023.11 | 프론트엔드 | [전국 300팀 중 대상🥇(휠패스)](https://github.com/BFGGyu/BF-frontend)
-| Si-gongan(서울대학교 창업팀) | - | 2023.07 - 2023.11 | 프론트엔드(RN) | 23년 예비창업 패키지 최우수상<br/> [앱스토어](https://apps.apple.com/kr/app/%EB%B8%8C%EB%A1%9C%EB%94%94/id6455684712) / [플레이스토어](https://play.google.com/store/apps/details?id=com.sigongan.bomjaguk&hl=ko)
-| 중앙대학교 Google Developer Student Club | 3기 | 2023.09 - 2024.06 | 프론트엔드 
-| 중앙대학교 UMC | 4기 | 2023.03 - 2023.08 | 프론트엔드 | WEB 파트장
+| YAPP | 24.11 - 25.03 | [repository](https://github.com/YAPP-Github/25th-Web-Team-2-FE) | [https://gradmeet.co.kr](https://gradmeet.co.kr/) 
+| 오픈소스 컨트리뷰션 아카데미<br/>(githru-vscode-ext 멘티) | 23.07 - 23.10 | [repository](https://github.com/githru/githru-vscode-ext) | - | [vscode extension 링크](https://marketplace.visualstudio.com/items?itemName=githru.githru-vscode-ext&ssr=false#overview)
+| 중앙대학교 멋쟁이사자처럼 | 23.03 - 23.11 | [휠패스 repository](https://github.com/BFGGyu/BF-frontend)</br>[멋사 위키 repository](https://github.com/cau-likelion-org/kiwi-client) | - | 전국 300팀 중 대상🥇
+| Si-gongan(서울대학교 창업팀) | 23.07 - 23.11 | - | [앱스토어](https://apps.apple.com/kr/app/%EB%B8%8C%EB%A1%9C%EB%94%94/id6455684712) / [플레이스토어](https://play.google.com/store/apps/details?id=com.sigongan.bomjaguk&hl=ko) | 23년 예비창업 패키지 최우수상
+| 중앙대학교 Google Developer Student Club | 23.09 - 24.06 | - | - | -
+| 중앙대학교 UMC | 23.03 - 23.08 | - | - | WEB 파트장
 
 
 ## 🎤 presentation
@@ -34,14 +38,6 @@
 - [Event Loop [멋쟁이사자처럼]](https://drive.google.com/file/d/1WE7N3QwG2VciHOYN5othKtzGyKDghtnW/view?usp=sharing)
 - [고려대 연합세션 - 휠패스 개발 경험 공유 [GDSC]](https://docs.google.com/presentation/d/1fm5Bkb5zYHBbflinZlcXpFinHkkNbRqBopnZuymN16s/edit?usp=sharing)
 - [브라우저 렌더링 방식(MPA, SPA, CSR, SSR) [GDSC]](https://drive.google.com/file/d/1DssMit9R-GBy6ob58vTQb2a8F1wASTxA/view?usp=sharing)
-
- <h2>🛠️ Teck Stack </h2>
- 
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
- <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
- <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white"/>
- <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-<div align='center'> 
 
 </div>
 
