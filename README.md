@@ -34,9 +34,10 @@
 
 ## 🎤 presentation
 - [10분 테코톡 - 리액트 LifeCycle [우아한테크코스]](https://www.youtube.com/watch?v=wLPHtaSfCmU)
-- [선배와의 만남 - 나 계속 개발할 수 있을까 [멋쟁이사자처럼]](https://drive.google.com/file/d/1EyaHcWTmkyHwdNHflvUBFRCYidhQqWGK/view?usp=sharing)
+- [모바일 drag & drop [현대 소프티어]](https://drive.google.com/file/d/18ScfaY53ny__74xqZEWz-0AVwpZEo50v/view?usp=sharing)
 - [Event Loop [멋쟁이사자처럼]](https://drive.google.com/file/d/1WE7N3QwG2VciHOYN5othKtzGyKDghtnW/view?usp=sharing)
 - [고려대 연합세션 - 휠패스 개발 경험 공유 [GDSC]](https://docs.google.com/presentation/d/1fm5Bkb5zYHBbflinZlcXpFinHkkNbRqBopnZuymN16s/edit?usp=sharing)
+- [선배와의 만남 - 나 계속 개발할 수 있을까 [멋쟁이사자처럼]](https://drive.google.com/file/d/1EyaHcWTmkyHwdNHflvUBFRCYidhQqWGK/view?usp=sharing)
 - [브라우저 렌더링 방식(MPA, SPA, CSR, SSR) [GDSC]](https://drive.google.com/file/d/1DssMit9R-GBy6ob58vTQb2a8F1wASTxA/view?usp=sharing)
 
 </div>
