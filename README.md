@@ -11,7 +11,7 @@
 
 | 회사명 | 기간 | 부서 | 역할 | 비고
 |:-:|:-:|:-:|:-:|:-:|
-| 당근 | 25.08 - now | 로컬비지니스 운영팀 | 통합 어드민 관리 및 당근 서비스 불편사항 개선  | 인턴
+| 당근 | 25.08 - now | 로컬비지니스 운영팀 | 통합 어드민 개선 및 프론트 플랫폼 업무  | 인턴
 | 미리디(미리캔버스) | 25.03 - 25.06 | 프론트엔드 캔버스웹 | 에디터 영역과 웹 영역 사이에서 발생하는 Event 설계 및 처리 | 인턴
 
 ## 🏫 Education
@@ -44,5 +44,4 @@
 </div>
 
 
-[![Hits](https://hits.sh/github.com/rbgksqkr.svg?view=today-total)](https://hits.sh/github.com/rbgksqkr/)
-<a href="https://velog.io/@ghenmaru/series"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ghenmaru/series"/></a> <a href="https://rbgksqkr.github.io/"><img src="https://img.shields.io/badge/git blog-%23121011.svg?style=flat-badge&logo=github&logoColor=white&link=https://rbgksqkr.github.io/"/></a>
+[![Hits](https://hits.sh/github.com/rbgksqkr.svg?view=today-total)](https://hits.sh/github.com/rbgksqkr/) <a href="https://rbgksqkr.github.io/"><img src="https://img.shields.io/badge/git blog-%23121011.svg?style=flat-badge&logo=github&logoColor=white&link=https://rbgksqkr.github.io/"/></a> <a href="https://velog.io/@ghenmaru/series"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ghenmaru/series"/></a>
