@@ -18,7 +18,7 @@
 
 | 활동명 | 활동 기간 | repository | 서비스 링크 | 비고
 |:-:|:-:|:-:|:-:|:-:|
-| 현대 소프티어 | 25.01 - 25.02 | [repository](https://github.com/softeer5th/Team6-DuBu) | [https://do-reburn.site(서비스 중단)](https://do-reburn.site/)
+| 현대 소프티어 | 25.01 - 25.02 | [repository](https://github.com/softeer5th/Team6-DuBu) | -
 | 우아한테크코스 | 24.02 - 24.11 | [repository](https://github.com/woowacourse-teams/2024-ddangkong) | [https://ddangkong.kr](https://ddangkong.kr/) | [아카이빙 저장소](https://github.com/rbgksqkr/woowacourse-archive)
 
 ## 📚 Experiences
